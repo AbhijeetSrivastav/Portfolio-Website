@@ -1,0 +1,23 @@
+
+
+.container{
+    box-sizing: 10;
+    
+    box-shadow: hotpink;
+    color: red;
+    border-color: green;
+    border-inline-start-width: 5em;
+
+}
+
+.nav-item{
+    color: red;
+    font-size: large;
+    font-weight: 100;
+}
+
+
+#alpha{
+    color: red;
+}
+
